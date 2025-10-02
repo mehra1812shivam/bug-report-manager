@@ -24,8 +24,7 @@ It’s built in a Jupyter Notebook and uses [Resend](https://resend.com) for ema
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/bug-report-manager.git
-cd bug-report-manager
+git clone https://github.com/mehra1812shivam/bug-report-manager.gitcd bug-report-manager
 ```
 
 ### 2. Setup a virtual environment
