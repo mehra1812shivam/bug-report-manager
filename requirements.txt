@@ -1,0 +1,6 @@
+jupyter
+nest_asyncio
+python-dotenv
+resend
+pydantic
+openai
